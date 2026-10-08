@@ -15,7 +15,7 @@ Event Horizon is a full-stack web platform that enables groups to:
 
 This project focuses on improving coordination and productivity for small teams in academic environments.
 
----
+--- 
 
 ## Key Features
 
